@@ -6,6 +6,8 @@ If something involves logic, patterns, or breaking+fixing code at 3 AM… I’m 
 
 
 ⚡ What I Actually Do
+
+
 ![math problem GIF](https://github.com/user-attachments/assets/2b4fe524-bca0-4a56-804b-88f34670372d)
 
 🤖 Machine Learning (classical ML + some DL)
