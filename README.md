@@ -1,12 +1,12 @@
-![Dog Math GIF](https://github.com/user-attachments/assets/d184277d-b69b-4c4d-b10d-ef8fb8e935d8)🚀 Hey, I'm Sam — ML Nerd & Problem Solver
+
+🚀 Hey, I'm Sam — ML Nerd & Problem Solver
 
 I'm a B.Tech IT 3rd-year student who mostly lives inside algorithms, ML models, optimization problems, and computer vision experiments.
 If something involves logic, patterns, or breaking+fixing code at 3 AM… I’m in.
 
 
 ⚡ What I Actually Do
-<iframe src="https://giphy.com/embed/2ja0O7qCR57Py" width="480" height="372" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/math-problem-solution-2ja0O7qCR57Py">via GIPHY</a></p>
-
+![math problem GIF](https://github.com/user-attachments/assets/2b4fe524-bca0-4a56-804b-88f34670372d)
 
 🤖 Machine Learning (classical ML + some DL)
 🎯 Problem Solving & Competitive Programming
